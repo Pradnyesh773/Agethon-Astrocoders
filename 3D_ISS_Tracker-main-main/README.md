@@ -1,12 +1,7 @@
 # 3D ISS Tracker
 
 ## About
-[Web application](https://vinayak1729-web.github.io/3D_ISS_Tracker-main/) developed for [the challenge](https://2022.spaceappschallenge.org/challenges/2022-challenges/track-the-iss/details) of [NASA International Space Apps Challenge 2022](https://www.spaceappschallenge.org)
-
----
-
-## [Website](https://vinayak1729-web.github.io/3D_ISS_Tracker-main/)
-
+[Demo Video](https://youtu.be/fI-2k_XqXLg?si=_hZdixquj3NPc2eR))
 ---
 
 ## Feature
