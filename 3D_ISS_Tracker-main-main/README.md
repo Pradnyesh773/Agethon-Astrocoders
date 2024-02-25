@@ -1,7 +1,7 @@
 # 3D ISS Tracker
 
 ## About
-[Demo Video](https://youtu.be/fI-2k_XqXLg?si=_hZdixquj3NPc2eR))
+[Demo Video](https://youtu.be/fI-2k_XqXLg?si=_hZdixquj3NPc2eR)
 ---
 
 ## Feature
